@@ -1,15 +1,13 @@
 ---
-title: 切图命名规范
-grammar_footnote: true
-grammar_cjkEmphasis: true
-grammar_cjkRuby: true
+# 切图命名规范
+
 ---
   1. 语义化
     2. 如果同一张图片有大小这样标示（比如logo.png）
         1. 如果有2个以上的大小图
             1. 原图 logo.png
             2. 二倍图logo_x2.png
-            3. 三杯图logo_x3.png
+            3. 三倍图logo_x3.png
         2. 两个大小图
             1. logo_min.png
             2. logo_max.png
